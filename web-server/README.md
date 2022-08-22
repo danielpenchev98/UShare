@@ -88,4 +88,4 @@ Also every server response sends `JSON object` with the `status code` of the req
 |`GET /v1/protected/group/files`|`QueryParameter` containing the `group name`|Fetch information about all files for a given group|Information records about the files|
 
 ## AWS deployment
-For more information one should read [aws-doc.pdf](/web-server/docs/aws-doc.pdf)
+For more information please refer to [aws-doc.pdf](/web-server/docs/aws-doc.pdf) (*The document is written currently in Bulgarian*)
